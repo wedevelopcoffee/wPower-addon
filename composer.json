@@ -1,0 +1,16 @@
+{
+    "name": "wedevelopcoffee/wpower-addon",
+    "description": "This is the wPower addon which provides the power for your awesome theme!",
+    "type": "whmcs-addon",
+    "require": {
+        "wedevelopcoffee/wpower": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Koop",
+            "email": "daniel@wedevelop.coffee"
+        }
+    ],
+    "minimum-stability": "dev"
+}
